@@ -26,7 +26,7 @@ We built this Ludo Dice Roller for a few simple reasons:
 
 Using this Ludo Dice Roller is super easy!
 
-1.  **Open the Website:** Go to the website link (once deployed on Vercel, you'll have a URL like `your-project-name.vercel.app`).
+1.  **Open the Website:** Go to the website link - https://ludo-dice-roller.vercel.app/
 2.  **See Whose Turn It Is:** At the top, it will tell you "Player 1's Turn."
 3.  **Roll the Dice:** Click the **"Roll Dice"** button. The dice will "roll" (animate) and then show a number.
 4.  **Move Your Ludo Piece:** Use the number shown on the dice to move your Ludo piece on your physical or online Ludo board.
