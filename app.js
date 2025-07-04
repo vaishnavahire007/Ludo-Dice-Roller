@@ -22,11 +22,11 @@ rollBtn.addEventListener('click', () => {
         dice.classList.remove('rolling');
 
         if (randomNumber !== 6) {
-            // Move to the next player only if not 6
+            // Only change player if not 6
             currentPlayerIndex = (currentPlayerIndex + 1) % players.length;
         }
-        
-        // Update player turn display
+
+        // Update player turn (only if necessary)
         playerTurn.textContent = `${players[currentPlayerIndex]}'s Turn`;
     }, 500);
 });
